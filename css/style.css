@@ -5138,14 +5138,14 @@ a {
         
         .menuShow ul li .icon {
             position: relative;
-            width: 50px;
+            width: 45px;
             float: right;
             z-index: 999;
-            height: 50px;
+            height: 45px;
             display: flex;
             align-items: center;
             justify-content: center;
-            background: rgba(49, 48, 48, 0.3);
+            /* background: rgba(49, 48, 48, 0.3); */
             border-radius: 4px;
             margin-bottom: 2px;
         }
