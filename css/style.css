@@ -31,6 +31,7 @@ theme.
             font-family: "Roboto", sans-serif;
             font-weight: 400;
             color: #7b838a;
+            text-align: justify;
         }
         
         h1,
@@ -1430,6 +1431,8 @@ theme.
             -moz-transition: all 0.3s ease 0s;
             -o-transition: all 0.3s ease 0s;
             transition: all 0.3s ease 0s;
+            height: 280px;
+            display: inline-table;
         }
         
         @media (max-width: 991px) {
@@ -5195,7 +5198,7 @@ a {
         .customer,
         .design,
         .order {
-            margin-top: 70px;
+            margin-top: 10px;
             margin-bottom: 70px;
         }
         
